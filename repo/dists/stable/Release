@@ -5,3 +5,24 @@ Description: Stable repository for Termux-Pawn binaries
 Suite: stable
 Date: Wed, 26 Dec 2024 00:11:00 UTC
 Component: main
+Date: Thu, 26 Dec 2024 04:22:32 +0000
+MD5Sum:
+ 16ffc5e2c09e3c7a258e57941912b8a4               38 Release
+ 320cc322cfebc421c168495748afae38              645 main/binary-aarch64/Packages.gz
+ ba7a0e99674d2c75891abe45e57f5da8              382 main/binary-all/Packages.gz
+ bf613e0b27a13d22b7e2b3a8c05c7a06              623 main/binary-arm/Packages.gz
+SHA1:
+ d60ac67602448491a7a91d76f5013b9e45ddfd98               38 Release
+ a833c5f3889093ea97a4a0af987ba485e4dd95c9              645 main/binary-aarch64/Packages.gz
+ 28056936c71043d6b50e99b2f6ddb699436701b7              382 main/binary-all/Packages.gz
+ faecd09bd69464157895c8eca1d31527d8fe4eb6              623 main/binary-arm/Packages.gz
+SHA256:
+ b5ca4c634d9ea454f5cd7d221b7fa6a735b48ac96b9a5cd920255f34b7249a52               38 Release
+ 6124494c98bd192c2ec8968f83f63200a0ad317c556bcbbdaff30588de6b8f96              645 main/binary-aarch64/Packages.gz
+ 7c9367246645ab88aeaf507c8887848e27d636ece32ee857b67bdd4b9985cd10              382 main/binary-all/Packages.gz
+ a36feb27a33de25c5942b71e97c0f6a4f2c2c20bec0af843636b8ba034526896              623 main/binary-arm/Packages.gz
+SHA512:
+ 7513acaa468a21c00d8c124ea88317af13f5c7b6c4a2b595a11045539a9499744df06b7644c34193321171a05f5d1078d69fc5634c56168299a3a6bc3ade80cd               38 Release
+ 092bed348fbee1b2a1a1a533e3873d50b7f3581d591219f1007c9beba4abb53ad99c6df946e3bfd42acbdbc4635d6ca660af51806e648eea38d5cf8d81837f48              645 main/binary-aarch64/Packages.gz
+ 9ace30adfe8db3a53dc0f42219697184168f9a78fc552408bdac63a270cb003ba52d55b091426ff4507f070ab5cbf14fd867ab79e130bdbf2d36085a5dbfb2fe              382 main/binary-all/Packages.gz
+ df88e246090b11c8ca24e7c56ac9c67e03f6640ee0984157eabd0716e1138f99956e0522f7ff9765f83b06043af36612888940004ec2f11c7c2508eb26e4970f              623 main/binary-arm/Packages.gz
