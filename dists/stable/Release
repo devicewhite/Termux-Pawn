@@ -1,0 +1,7 @@
+Codename: termux-pawn
+Version: 1.2.0
+Architectures: aarch64 arm all
+Description: Stable repository for Termux-Pawn binaries
+Suite: stable
+Date: Wed, 26 Dec 2024 00:11:00 UTC
+Component: main
