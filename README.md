@@ -63,7 +63,7 @@ Crie um arquivo chamado **`pawn.cfg`** na mesma pasta do script **`.pwn`**, cont
 Por exemplo:  
 
 ```plaintext
--d3 -;+ -(+ -R+ -Z+ -i:/sdcard/MeuGM/include
+-d3 -;+ -(+ -R+ -L2 -Z+ -i:/sdcard/MeuGM/include
 ```
 
 **Explicação do Exemplo**:  
