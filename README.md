@@ -70,7 +70,8 @@ Por exemplo:
 - `-d3`: Depuração avançada sem otimização.  
 - `-;+`: Ponto e vírgula obrigatório.  
 - `-(+`: Uso obrigatório de colchetes.  
-- `-R+`: Detalhes sobre funções recursivas ativados.  
+- `-R+`: Detalhes sobre funções recursivas ativados.
+- `-L2`: Ativa a tradução para as informações do compilador.
 - `-Z+`: Compatibilidade com includes antigos ativada.  
 - `-i:/sdcard/MeuGM/include`: Define o diretório onde estão os arquivos de include.  
 
