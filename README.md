@@ -49,6 +49,7 @@ O PAWN oferece diversas opções para personalizar o comportamento do compilador
 | **Opção** | **Descrição**                                                                                                                                      | **Recomendação**                                                                 |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | `-d`      | Nível de depuração: `0` (nenhum), `1` (normal), `2` (avançado), `3` (avançado sem otimização).                                                     | Utilize `-d3` para **debug** com **crashdetect**, ou `-d0` ao publicar o script. |
+| `-L`      | Idioma do compilador: `0` (ingles), `1` (espanhol), `2` (português), `3` (russo).                                                     | Utilize `-L2` para usar o idioma **Português Brasileiro**. |
 | `-Z`      | Compatibilidade com includes antigos. Permite incluir arquivos várias vezes, útil para includes como `y_hooks`.                                    | **Ative** (`-Z+`) se usar includes antigos.                                      |
 | `-R`      | Exibe detalhes sobre funções recursivas.                                                                                                          | **Opcional** (`-R+`) para análise de recursão.                                   |
 | `-;`      | Exige ponto e vírgula no final de cada instrução.                                                                                                 | **Ative** (`-;+`) para evitar erros de sintaxe.                                  |
@@ -62,14 +63,15 @@ Crie um arquivo chamado **`pawn.cfg`** na mesma pasta do script **`.pwn`**, cont
 Por exemplo:  
 
 ```plaintext
--d3 -;+ -(+ -R+ -Z+ -i:/sdcard/MeuGM/include
+-d3 -;+ -(+ -R+ -L2 -Z+ -i:/sdcard/MeuGM/include
 ```
 
 **Explicação do Exemplo**:  
 - `-d3`: Depuração avançada sem otimização.  
 - `-;+`: Ponto e vírgula obrigatório.  
 - `-(+`: Uso obrigatório de colchetes.  
-- `-R+`: Detalhes sobre funções recursivas ativados.  
+- `-R+`: Detalhes sobre funções recursivas ativados.
+- `-L2`: Ativa a tradução para as informações do compilador.
 - `-Z+`: Compatibilidade com includes antigos ativada.  
 - `-i:/sdcard/MeuGM/include`: Define o diretório onde estão os arquivos de include.  
 
