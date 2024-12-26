@@ -3,5 +3,25 @@ Version: 1.2.0
 Architectures: aarch64 arm all
 Description: Stable repository for Termux-Pawn binaries
 Suite: stable
-Date: Tue, 29 Oct 2024 15:40:10 UTC
 Components: main
+Date: Thu, 26 Dec 2024 05:04:07 +0000
+MD5Sum:
+ 6202c25a69d12e8710c11a53563a4ecd              229 Release
+ 320cc322cfebc421c168495748afae38              645 main/binary-aarch64/Packages.gz
+ ba7a0e99674d2c75891abe45e57f5da8              382 main/binary-all/Packages.gz
+ bf613e0b27a13d22b7e2b3a8c05c7a06              623 main/binary-arm/Packages.gz
+SHA1:
+ e80009d53ce60a635dd5c02ffed6ee016b336b8a              229 Release
+ a833c5f3889093ea97a4a0af987ba485e4dd95c9              645 main/binary-aarch64/Packages.gz
+ 28056936c71043d6b50e99b2f6ddb699436701b7              382 main/binary-all/Packages.gz
+ faecd09bd69464157895c8eca1d31527d8fe4eb6              623 main/binary-arm/Packages.gz
+SHA256:
+ 5fb92257a108f1def6c3d171badee0b447081672ad75a203d7f334e7c4e29f33              229 Release
+ 6124494c98bd192c2ec8968f83f63200a0ad317c556bcbbdaff30588de6b8f96              645 main/binary-aarch64/Packages.gz
+ 7c9367246645ab88aeaf507c8887848e27d636ece32ee857b67bdd4b9985cd10              382 main/binary-all/Packages.gz
+ a36feb27a33de25c5942b71e97c0f6a4f2c2c20bec0af843636b8ba034526896              623 main/binary-arm/Packages.gz
+SHA512:
+ 19982d8e2247a0ed937f3ea0b2b4046cb107745034293a23ca13eeb7a2fc96928296c1bce1fa64f7ad40615774147314dfc7adcb8723f41efdaad95e6862c4ba              229 Release
+ 092bed348fbee1b2a1a1a533e3873d50b7f3581d591219f1007c9beba4abb53ad99c6df946e3bfd42acbdbc4635d6ca660af51806e648eea38d5cf8d81837f48              645 main/binary-aarch64/Packages.gz
+ 9ace30adfe8db3a53dc0f42219697184168f9a78fc552408bdac63a270cb003ba52d55b091426ff4507f070ab5cbf14fd867ab79e130bdbf2d36085a5dbfb2fe              382 main/binary-all/Packages.gz
+ df88e246090b11c8ca24e7c56ac9c67e03f6640ee0984157eabd0716e1138f99956e0522f7ff9765f83b06043af36612888940004ec2f11c7c2508eb26e4970f              623 main/binary-arm/Packages.gz
