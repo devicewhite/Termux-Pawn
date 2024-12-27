@@ -1,14 +1,15 @@
 Package: deamx
 Version: 2.0.0
+Section: devel
+Priority: optional
 Architecture: all
 Maintainer: Termux-Pawn <termux-pawn@proton.me>
 Depends: lua51
-Filename: main/binary-all/deamx-2.0-all.deb
+Description: DeAMX is a decompiler for AMX bytecodes, with it you can revert your ".amx" file to ".pwn" file more easily.
+Filename: dists/stable/main/binary-all/deamx-2.0-all.deb
 Size: 19180
-MD5sum: a28182368dfb2ed72bf7884f863a826d
+MD5Sum: a28182368dfb2ed72bf7884f863a826d
 SHA1: e055e59e816e2b1d2fefe16e38edb1c7501aa2ca
 SHA256: 10ad9b5cec81148eab847c0c5ba14d80f53e2c61d448c0e33eee83feaf3e12da
-Section: devel
-Priority: optional
-Description: DeAMX is a decompiler for AMX bytecodes, with it you can revert your ".amx" file to ".pwn" file more easily.
+SHA512: 681b951566ce1eb1f15aae54258895a7a4de4db8b298fbd9b68b97b34652d7fba2bcdd71e63634eb45f0321afe7a3a1627ba27ae532f034ad1a78e6f41ea38d3
 

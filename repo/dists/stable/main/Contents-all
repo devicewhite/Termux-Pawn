@@ -1,0 +1,6 @@
+data/data/com.termux/files/usr/bin/deamx                                         deamx
+data/data/com.termux/files/usr/etc/deamx/deamx.lua                               deamx
+data/data/com.termux/files/usr/etc/deamx/deamx_events.lua                        deamx
+data/data/com.termux/files/usr/etc/deamx/deamx_opcodes.lua                       deamx
+data/data/com.termux/files/usr/etc/deamx/deamx_syscalls.lua                      deamx
+data/data/com.termux/files/usr/etc/deamx/deamx_util.lua                          deamx
