@@ -1,0 +1,22 @@
+Package: pawncc
+Version: 3.10.10-1.2.0
+Architecture: aarch64
+Maintainer: DeviceBlack <devicewhite@proton.me>
+Filename: main/binary-aarch64/pawncc-3.10.10-aarch64.deb
+Size: 437740
+MD5sum: cd1dcc78f2700a0b262c636334415e71
+SHA1: c7298b27ff5853e391445c6b017f8713ee920b2b
+SHA256: 59c8900b49ec35edae3a87a8140b815ecbb5c2543346cc725169411402e62a7b
+Description: A compiler for the pawn language, compatible with SA-MP and Open.MP.
+
+Package: pawncc-11
+Version: 3.10.11-1.2.0
+Architecture: aarch64
+Maintainer: DeviceBlack <devicewhite@proton.me>
+Filename: main/binary-aarch64/pawncc-3.10.11-aarch64.deb
+Size: 469108
+MD5sum: 9318da248afbe9900f7ef861a89bdf54
+SHA1: 9be75dd085791d8d820cdaa11a7b1708a7cd9e55
+SHA256: 72b3cbebee4ebc53f6be4082c5a4b99912124fb719bdeab28ca319084312efd1
+Description: A compiler for the pawn language, only compatible with Open.MP.
+

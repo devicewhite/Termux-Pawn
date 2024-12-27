@@ -1,27 +1,37 @@
+Origin: termux-pawn
 Codename: termux-pawn
-Version: 1.2.0
-Architectures: aarch64 arm all
-Description: Stable repository for Termux-Pawn binaries
+Label: termux-pawn
 Suite: stable
 Components: main
-Date: Thu, 26 Dec 2024 05:04:07 +0000
+Architectures: aarch64 arm all
+Description: Stable repository for Termux-Pawn binaries
+Version: 1.2.1
+Date: Fri, 27 Dec 2024 04:08:38 +0000
 MD5Sum:
- 6202c25a69d12e8710c11a53563a4ecd              229 Release
- 320cc322cfebc421c168495748afae38              645 main/binary-aarch64/Packages.gz
- ba7a0e99674d2c75891abe45e57f5da8              382 main/binary-all/Packages.gz
- bf613e0b27a13d22b7e2b3a8c05c7a06              623 main/binary-arm/Packages.gz
+ 9e33b0b1211e09f1ff9f17375a7e72e1              844 main/binary-aarch64/Packages
+ 873749f8801c4c8796225b458f0d4a7f              452 main/binary-aarch64/Packages.gz
+ 89ddd27e2b2be65f222ad4798e112050              485 main/binary-all/Packages
+ 79713fea7fae48709d710f51c4056195              369 main/binary-all/Packages.gz
+ db04449565f9333b1988b5e4b001b4f5              820 main/binary-arm/Packages
+ 3d2ad7cec6b1bd7ccf0aaff26620157a              449 main/binary-arm/Packages.gz
 SHA1:
- e80009d53ce60a635dd5c02ffed6ee016b336b8a              229 Release
- a833c5f3889093ea97a4a0af987ba485e4dd95c9              645 main/binary-aarch64/Packages.gz
- 28056936c71043d6b50e99b2f6ddb699436701b7              382 main/binary-all/Packages.gz
- faecd09bd69464157895c8eca1d31527d8fe4eb6              623 main/binary-arm/Packages.gz
+ 5e230e4e3b74ab2914d60a7dcd97b177a8506c04              844 main/binary-aarch64/Packages
+ 0381dc1626cfa5d17beb09d2cf712c9f97d3e2e3              452 main/binary-aarch64/Packages.gz
+ ff56468d5f4dc29358f29c4bc67113ef5c52a6dd              485 main/binary-all/Packages
+ 7fe15f3bb1e32f602941ecf7436fbe10431a4240              369 main/binary-all/Packages.gz
+ 5e00867e5328c02d9879f3b4ed500dcec5c8caf2              820 main/binary-arm/Packages
+ 312517949c1daef6f6e62ce1e74f531e18b00879              449 main/binary-arm/Packages.gz
 SHA256:
- 5fb92257a108f1def6c3d171badee0b447081672ad75a203d7f334e7c4e29f33              229 Release
- 6124494c98bd192c2ec8968f83f63200a0ad317c556bcbbdaff30588de6b8f96              645 main/binary-aarch64/Packages.gz
- 7c9367246645ab88aeaf507c8887848e27d636ece32ee857b67bdd4b9985cd10              382 main/binary-all/Packages.gz
- a36feb27a33de25c5942b71e97c0f6a4f2c2c20bec0af843636b8ba034526896              623 main/binary-arm/Packages.gz
+ dd468c9f1eb373e4de2e9bc27731996e778709ebb9070ee88dfa7f2eec782833              844 main/binary-aarch64/Packages
+ 6d5c7badbb5c5a475ade3859269e185a7707524164edb759eef414a2ff276ec3              452 main/binary-aarch64/Packages.gz
+ eeb04bbe88e34424a2ee8b4071bb8f2ee579976d575c8fe1ebcb98b41aff6d22              485 main/binary-all/Packages
+ ff56883a9619b6f9b46daf84b7520862219d3a1b5b1408e718e8990104a686bd              369 main/binary-all/Packages.gz
+ e229c228285888ed7e2f7ca7d516c05859bd92c6d2068fac76cf4eadb2065bcc              820 main/binary-arm/Packages
+ 69fac16d9f37503a436955f901b1af4fa7346e7e7181184925722afab035e651              449 main/binary-arm/Packages.gz
 SHA512:
- 19982d8e2247a0ed937f3ea0b2b4046cb107745034293a23ca13eeb7a2fc96928296c1bce1fa64f7ad40615774147314dfc7adcb8723f41efdaad95e6862c4ba              229 Release
- 092bed348fbee1b2a1a1a533e3873d50b7f3581d591219f1007c9beba4abb53ad99c6df946e3bfd42acbdbc4635d6ca660af51806e648eea38d5cf8d81837f48              645 main/binary-aarch64/Packages.gz
- 9ace30adfe8db3a53dc0f42219697184168f9a78fc552408bdac63a270cb003ba52d55b091426ff4507f070ab5cbf14fd867ab79e130bdbf2d36085a5dbfb2fe              382 main/binary-all/Packages.gz
- df88e246090b11c8ca24e7c56ac9c67e03f6640ee0984157eabd0716e1138f99956e0522f7ff9765f83b06043af36612888940004ec2f11c7c2508eb26e4970f              623 main/binary-arm/Packages.gz
+ ac6b12309098163180ecd70ad1493efc584e238b4f98799994183420c95563e492843f36d36c40efe130bcc26affb2ca31a2dc452fd4b7838df5372b4210f4c6              844 main/binary-aarch64/Packages
+ 1975715398909ba0729dcd647de5df267bdb70c31678023a4519c817bd5859a53e1362a7d6751966a91bb2a94646339c38a9e683ee8a4ce3f624d8a4906e303b              452 main/binary-aarch64/Packages.gz
+ 87954955410509bd43d46932e44bd8972be5a0f79c360967f1533ace1284b4d6b1c7ca06468a3aa51d22723bf3639cf50065eda57146ea4bd1dfdd1d01424728              485 main/binary-all/Packages
+ e29b10aa0a4a4c307810e387f837eec689d0ceb9d99ca9e7673f5299453a88a96863a41fb8df609eba98bf99086bb322f9e453f3f1b0ddc93f8bf05c923de8f9              369 main/binary-all/Packages.gz
+ cb55faf12dd4470319500fdad94e7b07b019801b388537873ba8d20e587f1f8ca5c53f7370d38f0eccd3f29b71cf9897eea83b38c502206f919244b78ebce6fa              820 main/binary-arm/Packages
+ 1a6b59b0c438c48c27e0827316592f3083ffb00ac1ecee6c25f0c6ebb1e6ae80a7ab8fe50e062d2dec9a18f2664bdfab191afba15229c5bc6553759da494fdf1              449 main/binary-arm/Packages.gz

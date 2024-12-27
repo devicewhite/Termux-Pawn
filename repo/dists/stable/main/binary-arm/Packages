@@ -1,0 +1,22 @@
+Package: pawncc
+Version: 3.10.10-1.2.0
+Architecture: arm
+Maintainer: DeviceBlack <devicewhite@proton.me>
+Filename: main/binary-arm/pawncc-3.10.10-arm.deb
+Size: 425640
+MD5sum: 65b51df4bc1b874d344afe770aee07cb
+SHA1: 063c1f7294e57191d9e3a08ee2c98c285d29876a
+SHA256: 974fd6fd0b81aba2d47b8c8eb0963b8b41244a0df1027946ea5c4a8950f40150
+Description: A compiler for the pawn language, compatible with SA-MP and Open.MP.
+
+Package: pawncc-11
+Version: 3.10.11-1.2.0
+Architecture: arm
+Maintainer: DeviceBlack <devicewhite@proton.me>
+Filename: main/binary-arm/pawncc-3.10.11-arm.deb
+Size: 443156
+MD5sum: f3f302fbd10874d158c74c8b46d390e4
+SHA1: 20ef85bfd4825d07e65d9704d1c3bc479f264b63
+SHA256: c02b952dd2daa8a589f94b6b22e656e0402ad926defedcb58dd351d44e2eacde
+Description: A compiler for the pawn language, only compatible with Open.MP.
+
