@@ -1,5 +1,7 @@
-Codename: termux
-Version: 1
+Codename: termux-pawn
+Origin: termux-pawn
+Label: termux-pawn
+Version: 1.2.1
 Architectures: aarch64 all arm
 Description: stable repository
 Suite: stable
