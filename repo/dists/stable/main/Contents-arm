@@ -1,9 +1,8 @@
 data/data/com.termux/files/usr/bin/pawncc                                        pawncc
 data/data/com.termux/files/usr/bin/pawndisasm                                    pawncc
 data/data/com.termux/files/usr/etc/profile.d/pawncc.sh                           pawncc
-data/data/com.termux/files/usr/etc/profile.d/pawndisasm.sh                       pawncc
 data/data/com.termux/files/usr/lib/libpawnc.a                                    pawncc
 data/data/com.termux/files/usr/bin/pawncc-11                                     pawncc-11
 data/data/com.termux/files/usr/bin/pawndisasm-11                                 pawncc-11
-data/data/com.termux/files/usr/etc/profile.d/pawncc.sh                           pawncc-11
+data/data/com.termux/files/usr/etc/profile.d/pawncc-11.sh                        pawncc-11
 data/data/com.termux/files/usr/lib/libpawnc-11.a                                 pawncc-11
