@@ -22,17 +22,9 @@
 Execute o comando abaixo no Termux para adicionar o repositório:  
 
 ```bash
-mkdir -p $PREFIX/etc/apt/sources.list.d && echo "deb [trusted=yes] https://termux-pawn.github.io/repo stable main" >> $PREFIX/etc/apt/sources.list.d/termux-pawn.list
+curl https://raw.githubusercontent.com/termux-pawn/termux-pawn.github.io/refs/heads/1.2.1/install.sh | bash
 ```
-
-### 2️⃣ **Atualize a Lista de Pacotes**  
-Atualize o cache do APT para disponibilizar os pacotes do repositório:  
-
-```bash
-yes | pkg upd -y && yes | pkg upg -y
-```
-
-### 3️⃣ **Instale o Compilador PAWN**  
+### 2️⃣ **Instale o Compilador PAWN**  
 Instale o compilador PAWN com o comando:  
 
 ```bash
