@@ -4,11 +4,11 @@ Architecture: aarch64
 Maintainer: DeviceBlack <devicewhite@proton.me>
 Description: A compiler for the pawn language, compatible with SA-MP and Open.MP.
 Filename: dists/stable/main/binary-aarch64/pawncc-3.10.10-aarch64.deb
-Size: 437296
-MD5Sum: 15ce083399dc0b9de9e3a41840d2219e
-SHA1: 37873ee0391acfd2a3fb789b1c997a9fbdca6672
-SHA256: 132e3c25d2d9733dafa8cb5cb4143b3ae9766a6c2d1b2468f98543f8ec28b2b5
-SHA512: 5690070119c2d7a4959e87e43035749928d9dc743ad262b93c9bb41dd3fb90763fdbb08da9a499e0341819d131ae65adad467d1cd1cbc2f702bc0817fce6a5e0
+Size: 438312
+MD5Sum: 00b5d7bb272fcf3f83735c9791946c81
+SHA1: 6ef650dd72fff1bdcb919ff87b4095fbdf3b4a63
+SHA256: 5ae9b90bbc2b780ad00c2eefb70937620e067e5ab209222df473c468206eb7e4
+SHA512: 3e8a5547b4032751e198069b55df34fd8c2aeddc6962a73f8b063261213946129e060bdd739534bcda8b9351f0707b6c5b790bdc1e0d0ef27c14cc02eead9714
 
 Package: pawncc-11
 Version: 3.10.11-1.2.0
@@ -16,9 +16,9 @@ Architecture: aarch64
 Maintainer: DeviceBlack <devicewhite@proton.me>
 Description: A compiler for the pawn language, only compatible with Open.MP.
 Filename: dists/stable/main/binary-aarch64/pawncc-3.10.11-aarch64.deb
-Size: 469024
-MD5Sum: f8bd5b3c07ff662f212338bd1a699e3a
-SHA1: 040b00bc5bd286454172d0447828471e7597362d
-SHA256: 01c344600d7d530fcff01796764d81d803cd4c75078f6134cf232ae3d75175b2
-SHA512: bc880143011d2622c211c0463636028883e20f0310930603adb419bc593dcb3d1655ea3a2b152ae109c46154b9f2f2898dd0740579f5f96a22550aa2cf6cea1d
+Size: 468348
+MD5Sum: 952a257bcf3a1def55cfa54bfd9c13c6
+SHA1: 3551f83c6596b53617984d980474b39ca28c7020
+SHA256: 26b62e898ad7ff44b337b3c2d9fb538ebf9a1269a334c7e1105d4fed1d8f6850
+SHA512: c858e86fda39e1b61187b108db3ccebcc90dec34416aecce6831f0b298d2fffe4dfb2b983645060ed39c51ee192fb3c4909de0b546af8792c2ff966bbc666f25
 

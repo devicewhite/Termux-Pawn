@@ -4,11 +4,11 @@ Architecture: arm
 Maintainer: DeviceBlack <devicewhite@proton.me>
 Description: A compiler for the pawn language, compatible with SA-MP and Open.MP.
 Filename: dists/stable/main/binary-arm/pawncc-3.10.10-arm.deb
-Size: 426012
-MD5Sum: 0a0106c6186f23ca3871be3a19cc1349
-SHA1: a1b40ed606f2b0103235982a0e6a9b85b9fab47a
-SHA256: a35d661afade4410f1cb5065278209820c672723145ae0740256cfc4266a3aad
-SHA512: cbf464f059add0595553969a088a332da9df54fc87eb9a853d9d91418bdd5c937799534605f6b38417fdc8aab9a2b13e1307a67c0d206106cd369d04859def97
+Size: 425260
+MD5Sum: 6a7e9cd28a36d9ff3bbc23ac5e147703
+SHA1: fdb1e6f52d8ab686d8bff4ee786f861c929a6659
+SHA256: 8a71e8851f4843caaed651ad85483e5a4549f67617a3369e6c8a14df935dfa2e
+SHA512: 03ff3a7e502de8c56ca8d8ac8c3ca65b75effea4054bb65a32d6408661de4cc0726bd4e1a96f5c0a867dda13441ef57a64009f8d8d0fd963326325b0606592d7
 
 Package: pawncc-11
 Version: 3.10.11-1.2.0
@@ -16,9 +16,9 @@ Architecture: arm
 Maintainer: DeviceBlack <devicewhite@proton.me>
 Description: A compiler for the pawn language, only compatible with Open.MP.
 Filename: dists/stable/main/binary-arm/pawncc-3.10.11-arm.deb
-Size: 443088
-MD5Sum: e9c00787b4b30ed43c00313eda16dc5f
-SHA1: 4228c9dd4ceeab17e6c848519c43dd86a8ef57c9
-SHA256: 20bb4e280bbdf3abf8855deb6906f151bf642afb1e56a5e184c5707c34acc992
-SHA512: b82266c1693eb378e86b603c74917664ed0151fc6bf89ffac071bc1dc4ea0f3ef604083958a4c4882b8521518e0bb94bab7e9518bf83aed000e42ca1e4f2577a
+Size: 444108
+MD5Sum: 236c19f21e32639087c1c6ca824bd23c
+SHA1: 16560eeca74c15f9e798ef6ab9f583ff4c706a23
+SHA256: 4c68553f59775a9b6faf48afae79446a2ec24402a5cea68058c9b80d80dd1a40
+SHA512: 080043e974d5f230627d47662e7e23ddf5329fc00b5f4cacd7a974873107d33427f753dfd8d46d0e1c0a925e54c99ffbc45fb6d25b7d47f98e1cb1b411927153
 
